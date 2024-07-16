@@ -1,0 +1,111 @@
+.card{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(171, 147, 147, 0.156);
+    padding:20px;
+  margin: 10px;
+    text-align: center;
+    /* max-width: 250px; */
+    display: inline-block;
+}
+
+.cardimage{
+    max-width: 90%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.but{
+    color: white;
+    border: none;
+    background-color: green;
+    height: 30px;
+    border-radius: 3px;
+    width: 90px;
+    cursor: pointer;
+}
+
+
+.sign-container{
+  border: 1px solid black;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 150px;
+  height: 400px;
+  gap: 33px;
+  border-radius: 8px;
+  margin-left: 550px;
+  box-shadow:  10px 5px gray}
+
+.button{
+  background-color: yellow;
+  border: none;
+  width: 90px;
+  height: 31px;
+  border-radius: 5px;
+  margin-top: 40px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+
+.input{
+ background-color: white;
+  width: 180px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-top: 20px;
+ /* // margin-bottom: 10px; */
+}
+
+
+.login-container{
+  border: 1px solid black;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 170px;
+  height: 400px;
+  gap: 35px;
+  border-radius: 8px;
+  margin-left: 550px;
+  box-shadow:  10px 5px gray
+
+}
+
+.button-login{
+  background-color: yellow;
+  border: none;
+  width: 90px;
+  height: 31px;
+  border-radius: 5px;
+  margin-top: 20px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+
+.input-login{
+ background-color: white;
+  width: 180px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-bottom: 30px;
+}
+
+
+.para{
+  margin-top: 10px;
+}
